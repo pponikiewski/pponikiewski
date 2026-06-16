@@ -35,11 +35,11 @@ Multi-tenant desktopowy time tracker z synchronizacją do chmury. Hierarchiczne 
 `Tauri 2` `Rust` `React 19` `TypeScript` `SQLite` `Supabase` `Zustand` `Recharts`
 
 ### 💰 [Budgie](https://github.com/pponikiewski/budget)
-Desktopowa aplikacja do domowego budżetu. Śledzenie przychodów i wydatków z kategoriami, bilans na żywo, filtrowanie po miesiącu, zestawienie wydatków per kategoria. Dane lokalnie w SQLite — działa w pełni offline, bez konta.  
+Desktopowa aplikacja do domowego budżetu. Śledzenie przychodów i wydatków z kategoriami, bilans na żywo, filtrowanie po miesiącu, zestawienie wydatków per kategoria. Dane lokalnie w SQLite - działa w pełni offline, bez konta.  
 `Tauri 2` `Rust` `React 19` `TypeScript` `SQLite` `Drizzle ORM` `Tailwind v4`
 
 ### 🌹 [Róża Różańcowa](https://github.com/pponikiewski/roza-rozancowa)
-Aplikacja webowa do zarządzania grupami Żywego Różańca — rejestracja tajemnic, zarządzanie członkami, komunikacja między zelatorami.  
+Aplikacja webowa do zarządzania grupami Żywego Różańca - rejestracja tajemnic, zarządzanie członkami, komunikacja między zelatorami.  
 `Next.js` `TypeScript` `Supabase` `Drizzle ORM`
 
 ---

@@ -51,4 +51,4 @@ Aplikacja do zarządzania budżetem osobistym.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pponikiewski)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pponikiewski@gmail.com)
 
-> 📍 Bielsko-Biała · 🎓 Informatyka, Politechnika Śląska · 🔍 Open to work
+> 📍 Bielsko-Biała · 🎓 Informatyka, WSIZ · 🔍 Open to work
